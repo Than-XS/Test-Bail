@@ -1,5 +1,5 @@
 {
-    "name": "thanror/baileys",
+    "name": "than-xs/baileys",
     "version": "2.0.3",
     "description": "WhatsApp API Modification By Than",
     "keywords": [
@@ -11,12 +11,12 @@
         "botwa",
         "z4phdev"
     ],
-    "homepage": "https://github.com/z4phdev/baileys",
+    "homepage": "https://github.com/than-xs/baileys",
     "repository": {
-        "url": "https://github.com/z4phdev/baileys"
+        "url": "https://github.com/than-xs/baileys"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "Than",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
